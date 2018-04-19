@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% load staticfiles %}
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
+
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
+        <script src = "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {%block head%}
+
+        {%endblock%}
+
+    </head>
+    <body>
+            <div class="ui inverted large orange menu">
+                    <a class="active item">
+                        Course Explorer
+                    </a>
+                    <div class="right menu">
+                      <div class="item">
+                          <div class="ui inverted white button">Sign Up</div>
+
+                      </div>
+                      <div class="item">
+                      <div class="ui inverted white button">Log In</div>
+                    </div>
+                    </div>
+                  </div>
+    {%block content%}
+    {%endblock%}
+   </body>
+
+</html>

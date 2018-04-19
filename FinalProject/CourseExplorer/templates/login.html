@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{%block head%}
+<link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
+{%endblock head%}
+{%block content%}
+<style type="text/css">
+    body {
+      background-color: #F8F8F8;
+    }
+    body > .grid {
+      height: 100%;
+    }
+    .image {
+      margin-top: -100px;
+    }
+    .column {
+      max-width: 450px;
+    }
+  </style>
+  <script>
+  $(document)
+    .ready(function() {
+      $('.ui.form')
+        .form({
+          fields: {
+            password: {
+              identifier  : 'password',
+              rules: [
+                {
+                  type   : 'empty',
+                  prompt : 'Please enter your password'
+                },
+                {
+                  type   : 'length[8]',
+                  prompt : 'Your password must be at least 8 characters'
+                }
+              ]
+            }
+          }
+        })
+      ;
+    })
+  ;
+  </script>
+<body>
+
+<div class="ui middle aligned center aligned grid">
+  <div class="column">
+    <h2 class="ui orange image header">
+      <div class="content">
+        Log-in to your account
+      </div>
+    </h2>
+    <form action = "login/" class="ui large form" method="post">
+        {%csrf_token%}
+      <div class="ui stacked segment">
+        <div class="field">
+          <div class="ui left labeled input">
+            <div class = "ui label">Username</div>
+            <input type="text" name="username" placeholder="Username">
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui left labeled input">
+            <div class = "ui label">Password</div>
+            <input type="password" name="password" placeholder="Password">
+          </div>
+        </div>
+        <div class="ui fluid large orange submit button">Login</div>
+      </div>
+
+      <div class="ui error message"></div>
+
+    </form>
+
+        <div class="ui message">
+            New to us? <a href="/signup">Sign Up</a>
+        </div>
+  </div>
+</div>
+{%endblock content%}
