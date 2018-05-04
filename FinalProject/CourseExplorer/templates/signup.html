@@ -40,27 +40,6 @@ max-width: 1000px;
                             }]
                         },
 
-                        email: {
-                            identifier: 'email',
-                            rules: [{
-                                type: 'empty',
-                                prompt: 'Please enter your e-mail'
-                            }, {
-                                type: 'email',
-                                prompt: 'Please enter a valid e-mail'
-                            }]
-                        },
-
-                        email: {
-                            identifier: 'email',
-                            rules: [{
-                                type: 'empty',
-                                prompt: 'Please enter your e-mail'
-                            }, {
-                                type: 'email',
-                                prompt: 'Please enter a valid e-mail'
-                            }]
-                        },
 
                         password: {
                             identifier: 'password',
@@ -83,7 +62,7 @@ max-width: 1000px;
         Sign up for an account!
       </div>
       </h2>
-      <form class="ui large form" method="post" action = "/signup/">
+      <form class="ui large form" method="post" action = "1">
         {%csrf_token%}
         <div class="ui stacked segment">
           <div class="field">
@@ -112,4 +91,3 @@ max-width: 1000px;
     </div>
 </div>
 
-  {%endblock content%}
