@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% load staticfiles %}
 {%block head%}
-<link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
+<link rel="stylesheet" type="text/css" href="{% static 'main2.css' %}" />
 {%endblock head%}
 {%block content%}
 <style type="text/css">
@@ -57,12 +57,12 @@ max-width: 1000px;
 </script>
   <div class="ui middle aligned center aligned grid">
     <div class="column">
-      <h2 class="ui orange image header">
+      <h2 class="ui image header">
       <div class="content">
         Sign up for an account!
       </div>
       </h2>
-      <form class="ui large form" method="post" action = "1">
+      <form class="ui large form" method="post" action = "">
         {%csrf_token%}
         <div class="ui stacked segment">
           <div class="field">
@@ -90,4 +90,5 @@ max-width: 1000px;
       </form>
     </div>
 </div>
+{%endblock content%}
 

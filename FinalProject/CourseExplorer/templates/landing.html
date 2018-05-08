@@ -1,0 +1,28 @@
+
+{% load staticfiles %}
+{%block head%}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
+{%endblock head%}
+{%block content%}
+<div class="full-screen">
+    <div>
+            <h1 class = "ui header" id = "heade">Welcome to Course Collab</h1>
+            <div class="item">
+                          <a href = "/ce/signup"><div class="ui inverted white button">Sign Up</div></a>
+
+                      </div>
+                      <br><br>
+                      <div class="item">
+                      <div class="ui inverted white button">Log In</div>
+                    </div>
+      <br>
+    </div>
+  </div>
+
+  {% endblock %}

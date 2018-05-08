@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{%block head%}
+<link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
+{%endblock head%}
+{%block content%}
+<style type="text/css">
+body {
+background-color: #F8F8F8;
+}
+body > .grid {
+height: 100%;
+}
+.image {
+margin-top: -100px;
+}
+.column {
+max-width: 1000px;
+}
+</style>
+<script>
+    $(document)
+        .ready(function() {
+            $('.ui.form')
+                .form({
+                    fields: {
+                        search: {
+                            identifier: 'search',
+                            rules: [{
+                                type: 'empty',
+                                prompt: 'Please enter your a course name'
+                            }]
+                        },
+                    }
+                });
+        });
+</script>
+  <div class="ui middle aligned center aligned grid">
+    <div class="column">
+      <h2 class="ui orange image header">
+      <div class="content">
+        Search
+      </div>
+      </h2>
+      <form class="ui large form" method="post" action = "">
+        {%csrf_token%}
+        <div class="ui stacked segment">
+          <div class="field">
+            <div class="ui left labeled input">
+              <div class = "ui label">Search</div>
+              <input type="text" name="search" placeholder="Search for course">
+            </div>
+          </div>
+
+
+          <div class="ui fluid large orange submit button">Search!</div>
+        </div>
+        <div class="ui error message"></div>
+      </form>
+    </div>
+</div>
+{%endblock content%}
+
