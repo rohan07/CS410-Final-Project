@@ -1,0 +1,934 @@
+4.981818181 55
+Snodgrass  E 4.981818181 55
+4.878787878 33
+Angrave  L 4.878787878 33
+4.833333333 42
+Fireman  E 4.833333333 42
+4.916666666 12
+Morrissette  J 4.916666666 12
+5 7
+Zola  D 5 7
+4.888888888 9
+Kumar  R 4.888888888 9
+5 6
+Liu  W 5 6
+4.875 8
+Parrett  DShike 4.875 8
+5 5
+Zhai  C 5 5
+5 5
+Burgoon  L 5 5
+5 5
+Ruzic  D 5 5
+4.625 24
+Solomon  J 4.625 24
+4.631578947 19
+Notaro  S 4.631578947 19
+4.833333333 6
+Sullivan  W 4.833333333 6
+4.833333333 6
+Stoddard  P 4.833333333 6
+5 4
+Johnson  H 5 4
+5 4
+Sullivan  W 5 4
+5 4
+Conway  B 5 4
+5 4
+Price  J 5 4
+4.666666666 9
+Harper  D 4.666666666 9
+4.714285714 7
+Willenbrock  S 4.714285714 7
+4.571428571 14
+Lo  A 4.571428571 14
+4.475 40
+Decoste  D 4.475 40
+4.583333333 12
+Bentz  JBentz 4.583333333 12
+4.8 5
+Hetrick  L 4.8 5
+4.8 5
+Paulson  N 4.8 5
+4.452380952 42
+Hall  S 4.452380952 42
+4.45 40
+Selen  M 4.45 40
+5 3
+Cardoso  FLoor 5 3
+5 3
+Lee  D 5 3
+5 3
+Sheldon  P 5 3
+5 3
+Lee  D 5 3
+5 3
+Dilger  R 5 3
+5 3
+Cardoso  FLoor 5 3
+5 3
+Eden  J 5 3
+5 3
+Burgos  A 5 3
+5 3
+Meyer  E 5 3
+5 3
+Mesri  G 5 3
+5 3
+Johnson  H 5 3
+4.5 12
+Quick  B 4.5 12
+4.75 4
+Makins  N 4.75 4
+4.75 4
+Dutton  J 4.75 4
+4.75 4
+Looney  L 4.75 4
+4.75 4
+Wengert  R 4.75 4
+4.75 4
+Edwards  M 4.75 4
+4.75 4
+Kudeki  E 4.75 4
+4.342857142 35
+Ray  C 4.342857142 35
+4.6 5
+Brown  M 4.6 5
+4.6 5
+Bowles  M 4.6 5
+4.6 5
+Rushing  R 4.6 5
+4.6 5
+Zimmerman  S 4.6 5
+4.6 5
+Raycraft  M 4.6 5
+4.375 16
+Stewart  A 4.375 16
+5 2
+Kourtikakis  K 5 2
+5 2
+Zhu  W 5 2
+5 2
+Rosch  D 5 2
+5 2
+Scott  N 5 2
+5 2
+Berenbaum  H 5 2
+5 2
+Koerner  M 5 2
+5 2
+Rudolph  T 5 2
+5 2
+Wiesener  C 5 2
+5 2
+DeVille  R 5 2
+5 2
+Rosch  D 5 2
+5 2
+Woodley  M 5 2
+5 2
+Sullivan  W 5 2
+5 2
+Poetzel  A 5 2
+5 2
+Stark  T 5 2
+5 2
+Junge  M 5 2
+5 2
+Batten  L 5 2
+5 2
+Craft  J 5 2
+5 2
+Gupta  I 5 2
+5 2
+Dramin Weiss  S 5 2
+5 2
+Delgado  L 5 2
+5 2
+Sottos  N 5 2
+5 2
+Nelson  C 5 2
+5 2
+Bohn  D 5 2
+5 2
+Brooks  C 5 2
+5 2
+Cohen  J 5 2
+5 2
+Morris  L 5 2
+5 2
+Koven  M 5 2
+5 2
+Johnson  H 5 2
+5 2
+Cooper  D 5 2
+5 2
+Barich  J 5 2
+5 2
+Craft  J 5 2
+5 2
+Gupta  I 5 2
+4.4 10
+Dunne  B 4.4 10
+4.428571428 7
+Thompson  V 4.428571428 7
+4.666666666 3
+Wachter  C 4.666666666 3
+4.666666666 3
+Kemball  A 4.666666666 3
+4.666666666 3
+Johnson  H 4.666666666 3
+4.666666666 3
+Hall  S 4.666666666 3
+4.666666666 3
+Schmidt  A 4.666666666 3
+4.666666666 3
+Johnson  H 4.666666666 3
+4.666666666 3
+Brown  M 4.666666666 3
+4.666666666 3
+Schmidt  A 4.666666666 3
+4.666666666 3
+Miller  T 4.666666666 3
+4.666666666 3
+Abbott  A 4.666666666 3
+4.666666666 3
+Blake  N 4.666666666 3
+4.666666666 3
+Li  X 4.666666666 3
+4.666666666 3
+Aminmansour  A 4.666666666 3
+4.666666666 3
+Dill  B 4.666666666 3
+4.666666666 3
+Sofronis  P 4.666666666 3
+4.666666666 3
+Bretl  TWest 4.666666666 3
+4.666666666 3
+Firkins  C 4.666666666 3
+4.25 32
+Altaner  SLai 4.25 32
+4.375 8
+Stewart  A 4.375 8
+4.5 4
+Kline  K 4.5 4
+4.5 4
+Albert  S 4.5 4
+4.5 4
+Lleras  C 4.5 4
+4.5 4
+Ngo  F 4.5 4
+4.5 4
+Hill  L 4.5 4
+4.4 5
+Hillmer  P 4.4 5
+4.4 5
+Rayburn  A 4.4 5
+4.4 5
+Singer  ATaylor 4.4 5
+4.4 5
+Costello  T 4.4 5
+4.210526315 19
+Love  E 4.210526315 19
+4.175 40
+Murphy  C 4.175 40
+4.333333333 6
+Hadley  P 4.333333333 6
+4.1875 16
+Srull  T 4.1875 16
+4.5 2
+Schneider  DSchneider 4.5 2
+4.5 2
+Cooper  D 4.5 2
+4.5 2
+Han  H 4.5 2
+4.5 2
+Ionin  T 4.5 2
+4.5 2
+Spencer  B 4.5 2
+4.5 2
+Jacobson  SJacobson 4.5 2
+4.5 2
+Cooper  D 4.5 2
+4.5 2
+Tutumluer  E 4.5 2
+4.5 2
+Brennan  J 4.5 2
+4.5 2
+Schneider  DSchneider 4.5 2
+4.5 2
+Sanders  K 4.5 2
+4.5 2
+Valocchi  A 4.5 2
+4.5 2
+Bresler  YKamalabadi 4.5 2
+4.5 2
+Davidson  P 4.5 2
+4.5 2
+Malekin  B 4.5 2
+4.5 2
+Greene  P 4.5 2
+4.5 2
+Shapiro  S 4.5 2
+4.5 2
+Cacho  L 4.5 2
+4.5 2
+Packard  J 4.5 2
+4.5 2
+Miller  T 4.5 2
+4.5 2
+Adve  S 4.5 2
+4.5 2
+Tomkin  J 4.5 2
+4.5 2
+Alwes  C 4.5 2
+4.5 2
+Petruzzello  S 4.5 2
+4.5 2
+Anderson  J 4.5 2
+4.5 2
+Song  J 4.5 2
+4.5 2
+Salapaka  S 4.5 2
+4.5 2
+Lilly  B 4.5 2
+4.5 2
+Greene  P 4.5 2
+4.5 2
+Livengood  K 4.5 2
+4.5 2
+Shapiro  S 4.5 2
+4.5 2
+Packard  J 4.5 2
+4.5 2
+Miller  T 4.5 2
+4.333333333 3
+Ambrose  S 4.333333333 3
+4.333333333 3
+Jones  T 4.333333333 3
+4.333333333 3
+Bell  A 4.333333333 3
+4.333333333 3
+Fennell  C 4.333333333 3
+4.333333333 3
+Schneider  DSchneider 4.333333333 3
+4.333333333 3
+McFarquhar  RSteinberg 4.333333333 3
+4.333333333 3
+Olson  S 4.333333333 3
+4.333333333 3
+Lucero  J 4.333333333 3
+4.333333333 3
+Wong  C 4.333333333 3
+4.333333333 3
+Magee  J 4.333333333 3
+4.333333333 3
+Williams  M 4.333333333 3
+4.333333333 3
+Peters  S 4.333333333 3
+4.333333333 3
+Chen  Q 4.333333333 3
+4.25 4
+Kumar  R 4.25 4
+4.25 4
+Philpott  M 4.25 4
+4.25 4
+Ross  J 4.25 4
+4.25 4
+Traill  A 4.25 4
+4.25 4
+Li  X 4.25 4
+4.25 4
+Noland  D 4.25 4
+4.25 4
+Stubbins  J 4.25 4
+4.25 4
+Wang  N 4.25 4
+4.25 4
+Rauber  R 4.25 4
+4.25 4
+Li  X 4.25 4
+4.2 5
+Cole  L 4.2 5
+4.166666666 6
+Chen  Q 4.166666666 6
+4.166666666 6
+Haken  L 4.166666666 6
+4.166666666 6
+Ragheb  M 4.166666666 6
+4.166666666 6
+Spencer  B 4.166666666 6
+4.125 8
+Layton  R 4.125 8
+4.111111111 9
+Brown  M 4.111111111 9
+4.1 10
+Mitra  S 4.1 10
+4.027027027 37
+Vazquez  O 4.027027027 37
+4 14
+Stepanov  A 4 14
+4 10
+Glumac  N 4 10
+4 8
+Davis  A 4 8
+4 7
+Braun  L 4 7
+3.9375 16
+Frame  JMiller 3.9375 16
+4 5
+Carollo  BCarollo 4 5
+4 5
+Silverman  S 4 5
+4 5
+Smith  R 4 5
+4 5
+Trinkle  D 4 5
+4 4
+Boppart  S 4 4
+4 4
+Andrade  F 4 4
+4 4
+Chen  Q 4 4
+4 4
+Baylis  K 4 4
+4 4
+Wang  N 4 4
+4 4
+Chasiotis  I 4 4
+4 4
+Solis  G 4 4
+4 3
+Thomas  S 4 3
+4 3
+Espiritu  A 4 3
+4 3
+McDonagh  DMistilis 4 3
+4 3
+Chung  H 4 3
+4 3
+Abelson  J 4 3
+4 3
+Mehta  P 4 3
+4 3
+Chaplin  T 4 3
+4 3
+Ward  M 4 3
+4 3
+Follis  J 4 3
+4 3
+Babadoost  MBabadoost 4 3
+4 3
+Nelson  C 4 3
+4 3
+Subramanyam  R 4 3
+4 3
+Myers  M 4 3
+4 3
+Tierney  R 4 3
+4 3
+Lee  D 4 3
+4 3
+Costa  C 4 3
+4 3
+Gundersen  L 4 3
+4 3
+Melendez  M 4 3
+4 3
+Schultz  R 4 3
+4 2
+Hennebohl  SHilger 4 2
+4 2
+McCarthy  C 4 2
+4 2
+Leff  C 4 2
+4 2
+Hennebohl  SHilger 4 2
+4 2
+Wilcox  K 4 2
+4 2
+McCarthy  C 4 2
+4 2
+Leff  C 4 2
+4 2
+Baillargeon  R 4 2
+4 2
+Roseman  CRoseman 4 2
+4 2
+Milenkovic  O 4 2
+4 2
+Dalpiaz  DDouglas 4 2
+4 2
+Fogelman  C 4 2
+4 2
+Varden  H 4 2
+4 2
+Shaffer  E 4 2
+4 2
+Hays  D 4 2
+4 2
+Heath  KMarshall-Colon 4 2
+4 2
+Lam  F 4 2
+4 2
+Wang  N 4 2
+4 2
+Lee  D 4 2
+4 2
+Popovics  J 4 2
+4 2
+Nguyen  T 4 2
+4 2
+O'Gorman  T 4 2
+4 2
+Burkus-Chasson  A 4 2
+4 2
+Fahnestock  L 4 2
+4 2
+Varden  H 4 2
+3.833333333 6
+Reddy  A 3.833333333 6
+3.833333333 6
+Dell  G 3.833333333 6
+3.833333333 6
+Schmidt  A 3.833333333 6
+3.8 5
+Bullock  WThomas 3.8 5
+3.8 5
+Shang  J 3.8 5
+3.774193548 62
+Hummel  TMcCarren 3.774193548 62
+3.75 8
+Carpenter  B 3.75 8
+3.75 4
+Kong  H 3.75 4
+3.75 4
+Leakey  AMorphew 3.75 4
+3.75 4
+Gill  S 3.75 4
+3.75 4
+Lee  D 3.75 4
+3.75 4
+Goldsmith  P 3.75 4
+3.75 4
+Steward  D 3.75 4
+3.75 4
+Zhao  H 3.75 4
+3.75 4
+Kenis  PKong 3.75 4
+3.714285714 7
+Rosenstock  B 3.714285714 7
+3.714285714 7
+Hoffman  V 3.714285714 7
+3.705882352 17
+Bohn  D 3.705882352 17
+3.7 10
+Caughlin  J 3.7 10
+3.666666666 3
+Shao  X 3.666666666 3
+3.666666666 3
+Yannarell  A 3.666666666 3
+3.666666666 3
+Koloutsou-Vakakis  SKoloutsou-Vakakis 3.666666666 3
+3.666666666 3
+Kwon  S 3.666666666 3
+3.666666666 3
+Sydnor  S 3.666666666 3
+3.666666666 3
+Schultz  R 3.666666666 3
+3.666666666 3
+Cobb  AEmmert 3.666666666 3
+3.666666666 3
+Murphy  C 3.666666666 3
+3.666666666 3
+Jacobs  C 3.666666666 3
+3.666666666 3
+Waldrop  L 3.666666666 3
+3.666666666 3
+Chambers  L 3.666666666 3
+3.666666666 3
+Feng  R 3.666666666 3
+3.666666666 3
+Simpson  P 3.666666666 3
+3.666666666 3
+Long  D 3.666666666 3
+3.666666666 3
+Reedy  M 3.666666666 3
+3.625 8
+Symes  C 3.625 8
+3.625 8
+Chapman  K 3.625 8
+3.6 5
+Brown  M 3.6 5
+3.6 5
+Crowston  CDiaz 3.6 5
+3.5 2
+Brown  M 3.5 2
+3.5 2
+Browning  L 3.5 2
+3.5 2
+Sanders  K 3.5 2
+3.5 2
+Fraterrigo  JFraterrigo 3.5 2
+3.5 2
+Erickson  KPokorny 3.5 2
+3.5 2
+Beever  JKukekova 3.5 2
+3.5 2
+Nguyen  T 3.5 2
+3.5 2
+Hill  L 3.5 2
+3.5 2
+Rana  J 3.5 2
+3.5 2
+Fraterrigo  JFraterrigo 3.5 2
+3.5 2
+Anders  AChang 3.5 2
+3.5 2
+Kaganovsky  L 3.5 2
+3.5 2
+Bowen  M 3.5 2
+3.5 2
+Toossi  AToossi 3.5 2
+3.5 2
+Lyubansky  M 3.5 2
+3.5 2
+Boyle  F 3.5 2
+3.5 2
+Ha  J 3.5 2
+3.5 2
+Senseney  J 3.5 2
+3.5 2
+Li  X 3.5 2
+3.5 2
+Cole  L 3.5 2
+3.5 2
+Leff  C 3.5 2
+3.5 2
+Hansen  J 3.5 2
+3.5 2
+Greenberg  JHughes 3.5 2
+3.5 2
+Liang  H 3.5 2
+3.5 2
+Mehta  P 3.5 2
+3.5 2
+Hays  D 3.5 2
+3.5 2
+Schneider  DSchneider 3.5 2
+3.5 2
+Bodony  D 3.5 2
+3.5 2
+Song  J 3.5 2
+3.571428571 7
+Novak  A 3.571428571 7
+3.5 4
+Martin  J 3.5 4
+3.5 4
+Sutton  B 3.5 4
+3.5 6
+Rispoli  M 3.5 6
+3.5 6
+Ashby  SBruno 3.5 6
+3.5 8
+Zhang  Y 3.5 8
+3.53125 32
+Schultz  R 3.53125 32
+3.5 14
+Mestre  JSickles 3.5 14
+3.333333333 3
+Gates  R 3.333333333 3
+3.333333333 3
+Fisher  C 3.333333333 3
+3.333333333 3
+Dominguez-Garcia  A 3.333333333 3
+3.333333333 3
+Fisher  C 3.333333333 3
+3.333333333 3
+Hardin  D 3.333333333 3
+3.333333333 3
+Gilbert  M 3.333333333 3
+3.333333333 3
+Juraska  J 3.333333333 3
+3.333333333 3
+Kim  SLamers 3.333333333 3
+3.333333333 3
+Olson  S 3.333333333 3
+3.4 5
+Johnson  H 3.4 5
+3.428571428 7
+Huang  Z 3.428571428 7
+3.333333333 6
+Hoganson  K 3.333333333 6
+3.25 4
+Myers  M 3.25 4
+3.25 4
+McBride  B 3.25 4
+3.25 4
+Xu  Y 3.25 4
+3.25 4
+Winship  V 3.25 4
+3.25 4
+Mulvaney  R 3.25 4
+3.25 4
+Schutt-Aine  J 3.25 4
+3.25 4
+Goodman  G 3.25 4
+3.25 4
+Hart  J 3.25 4
+3.25 4
+Punyasena  S 3.25 4
+3.388888888 18
+Marville  K 3.388888888 18
+3 2
+Brewster  M 3 2
+3 2
+Rodriguez  M 3 2
+3 2
+Johnson  H 3 2
+3 2
+McDermott  M 3 2
+3 2
+Wang  N 3 2
+3 2
+Larrison  C 3 2
+3 2
+Brown  M 3 2
+3 2
+Koshy  S 3 2
+3 2
+Wang  N 3 2
+3 2
+Larrison  C 3 2
+3 2
+Miller  T 3 2
+3 2
+Johnson  H 3 2
+3 2
+Jacobs  C 3 2
+3 2
+Lee  D 3 2
+3 2
+Hill  L 3 2
+3 2
+Li  X 3 2
+3 2
+Lee  D 3 2
+3 2
+Wong  C 3 2
+3 2
+Pak  Y 3 2
+3 2
+Miraftab  F 3 2
+3 2
+Wagoner Johnson  A 3 2
+3.2 5
+Phillips  P 3.2 5
+3.2 5
+Vasquez  J 3.2 5
+3.2 5
+Buchanan  D 3.2 5
+3 3
+Amos  JBrunet 3 3
+3 3
+Amos  JBrunet 3 3
+3 3
+Jones  T 3 3
+3.166666666 6
+Leburton  J 3.166666666 6
+3 4
+Wang  N 3 4
+3 4
+Sachdev  V 3 4
+3 4
+Caceres  C 3 4
+3 4
+Moodie  E 3 4
+3 4
+Larson  R 3 4
+3 4
+Bullock  WThomas 3 4
+3.125 8
+Waters  MWaters 3.125 8
+3 5
+Smith  R 3 5
+3 5
+Chen  Q 3 5
+3 6
+Wildblood  H 3 6
+2.5 2
+Boubekri  M 2.5 2
+2.5 2
+Taylor  S 2.5 2
+2.5 2
+Barnes  LCotoc 2.5 2
+2.5 2
+Moore  MMoore 2.5 2
+2.5 2
+Freund  J 2.5 2
+2.5 2
+Wu  C 2.5 2
+2.5 2
+Burke  M 2.5 2
+2.5 2
+Schnitkey  G 2.5 2
+2.5 2
+Yoon  H 2.5 2
+2.5 2
+Berlocher  SDalling 2.5 2
+2.5 2
+Yoon  H 2.5 2
+2.5 2
+Boubekri  M 2.5 2
+2.5 2
+Barnes  LCotoc 2.5 2
+2.5 2
+Zhao  H 2.5 2
+2.5 2
+McDuffie  K 2.5 2
+2.5 2
+Brand  MKruse 2.5 2
+2.5 2
+Ward  M 2.5 2
+2.5 2
+Sinha  S 2.5 2
+2.5 2
+Luthey-Schulten  Z 2.5 2
+2.5 2
+Andrawes  B 2.5 2
+2.5 2
+Dutta  S 2.5 2
+3.076923076 13
+Fleck  M 3.076923076 13
+3 8
+Beck  C 3 8
+2.666666666 3
+Bauer  D 2.666666666 3
+2.666666666 3
+Mitchell  DMitchell 2.666666666 3
+2.666666666 3
+Russell  T 2.666666666 3
+2.666666666 3
+Weissman  T 2.666666666 3
+2.666666666 3
+DiIanni  I 2.666666666 3
+3.115384615 26
+Leake  J 3.115384615 26
+2.75 4
+McCarthy  C 2.75 4
+3.052631578 19
+Gundersen  L 3.052631578 19
+2.8 5
+Ghamari-Tabrizi  B 2.8 5
+3 13
+Arvin-Rad  H 3 13
+3 14
+Murphy  C 3 14
+2.833333333 6
+Huang  Z 2.833333333 6
+2.857142857 7
+Hashash  Y 2.857142857 7
+2.857142857 7
+Ebel  J 2.857142857 7
+2.9 10
+Travis  L 2.9 10
+2 2
+Perry  R 2 2
+2 2
+Perry  R 2 2
+2 2
+Miller  T 2 2
+2 2
+Olson  S 2 2
+2 2
+Jackson  S 2 2
+2 2
+Akresh  IAkresh 2 2
+2.333333333 3
+Lopez-Pamies  O 2.333333333 3
+2.333333333 3
+Kim  SLamers 2.333333333 3
+2.333333333 3
+Oberdeck  K 2.333333333 3
+2.5 4
+Cahill  D 2.5 4
+2.5 4
+Miller  T 2.5 4
+2.5 4
+Green  KMetzger 2.5 4
+2.5 4
+Reid  D 2.5 4
+2.5 4
+Reis  H 2.5 4
+2.6 5
+Shinew  K 2.6 5
+2.666666666 6
+Kim  SLamers 2.666666666 6
+2.75 8
+Fischer-Brown  AFischer-Brown 2.75 8
+2.625 8
+Gunsalus  C 2.625 8
+2.4 5
+Clark  LClark 2.4 5
+2.4 5
+Sivapalan  M 2.4 5
+2.4 5
+Olson  S 2.4 5
+2.727272727 22
+Dyer  M 2.727272727 22
+2 3
+King  D 2 3
+2 3
+Landrum-Brown  J 2 3
+2 3
+Wu  C 2 3
+2.741935483 31
+Keane  R 2.741935483 31
+1.5 2
+Wilson  C 1.5 2
+1.5 2
+Wang  N 1.5 2
+1.5 2
+Wilson  C 1.5 2
+2.545454545 11
+Kirchner  NStenger 2.545454545 11
+2.5 10
+Sahakyan  L 2.5 10
+2.2 5
+Kumar  R 2.2 5
+2 4
+Rosas  G 2 4
+1.666666666 3
+Liu  W 1.666666666 3
+1.666666666 3
+Good  EKirchner 1.666666666 3
+2 5
+Weaver  C 2 5
+2 5
+McChesney  R 2 5
+1 2
+Lundsgaard  M 1 2
+1 2
+Oh  E 1 2
+1 2
+Mitchell  DMitchell 1 2
+1 2
+Sinha  S 1 2
+1 2
+Garcia  M 1 2
+1.75 4
+Kim  SLamers 1.75 4
+1.75 4
+Hinchliffe  J 1.75 4
+2.307692307 13
+Moore  MMoore 2.307692307 13
+1.8 5
+Vasudevan  S 1.8 5
+1 3
+Bauer  D 1 3
+1.5 6
+Starzewski  M 1.5 6
+1.5 6
+Starzewski  M 1.5 6
+1.333333333 6
+Choi  J 1.333333333 6

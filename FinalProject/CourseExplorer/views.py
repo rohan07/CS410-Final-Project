@@ -6,7 +6,11 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.http import HttpResponseRedirect, HttpResponse
-from .models import KooferData,CourseExplorerData,RateMyProfessor
+from.models import KooferData, CourseExplorerData, RateMyProfessor, Reviews
+from graphos.renderers import highcharts
+from graphos.sources.model import ModelDataSource
+from chartit import DataPool, Chart
+from textblob import TextBlob
 # Dummy method
 def index(request):
     return render(request, "base.html")
@@ -19,7 +23,7 @@ def user_login(request):
         if user:
             if user.is_active:
                 login(request, user)
-                return HttpResponseRedirect('/index/')
+                return HttpResponseRedirect('/ce/search/')
             else:
                 return HttpResponse('Your account is disabled. Please activate it')
         else:
@@ -46,7 +50,8 @@ def user_signup(request):
 # User index page
 def user_index(request):
     c = KooferData.objects.all()
-    return render(request,'index.html', {'c':c})
+    return render(request, 'index.html', {'c': c})
+    
 def user_search(request):
     if request.method == 'POST':
         course_name = request.POST.get('search', False);
@@ -60,4 +65,27 @@ def user_search(request):
     else:
         return render(request,'search.html')
 def landing(request):
-    return render(request,'landing.html')
+    return render(request, 'landing.html')
+def feedback(request):
+    if request.method == 'POST':
+        course_name = request.POST.get('course_name', False);
+        review_val = request.POST.get('feedback', False)
+        course_val = CourseExplorerData.objects.filter(number=course_name)[0]
+        feedb = Reviews(review=review_val, course=course_val)
+        analysis = TextBlob(review_val)
+        if analysis.sentiment.polarity > 0:
+            sentiment =  'positive'
+        elif analysis.sentiment.polarity == 0:
+            sentiment = 'neutral'
+        else:
+            sentiment = 'negative'
+        feedb.sentiment = sentiment
+        feedb.polarity = analysis.sentiment.polarity
+        feedb.subjectivity = analysis.sentiment.subjectivity
+        feedb.save()
+        data_source = ModelDataSource(
+        Reviews.objects.filter(course=course_val), fields=['review', 'polarity', ],)
+        cht = highcharts.LineChart(
+        data_source, options={'title': "Reviews with Polarity"})
+        return render(request, 'feedback.html', {'c': course_val,'f': feedb,'rr': course_val.reviews_set.all(), 'vischart': cht})
+    return render(request,'review.html')

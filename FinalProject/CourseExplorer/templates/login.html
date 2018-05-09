@@ -5,6 +5,9 @@
 {%endblock head%}
 {%block content%}
 <style type="text/css">
+.content{
+  color : white;
+}
     body {
       background-color: #F8F8F8;
     }
@@ -52,7 +55,7 @@
         Log-in to your account
       </div>
     </h2>
-    <form action = "login/" class="ui large form" method="post">
+    <form action = "" class="ui large form" method="post">
         {%csrf_token%}
       <div class="ui stacked segment">
         <div class="field">
@@ -75,7 +78,7 @@
     </form>
 
         <div class="ui message">
-            New to us? <a href="/signup">Sign Up</a>
+            New to us? <a href="/ce/signup">Sign Up</a>
         </div>
   </div>
 </div>

@@ -1,0 +1,12 @@
+certifi==2018.4.16
+chardet==3.0.4
+Django==2.0.4
+-e git+http://github.com/rohan07/django-chartit.git@58b33e922a86e5c9e0030ad55c564c633d2c07bd#egg=django_chartit
+django-graphos==0.3.41
+idna==2.6
+nltk==3.3
+pytz==2018.4
+requests==2.18.4
+six==1.11.0
+textblob==0.15.1
+urllib3==1.22

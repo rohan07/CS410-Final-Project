@@ -1,13 +1,10 @@
 {% extends "base.html" %}
 {% load staticfiles %}
 {%block head%}
-<link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
+<link rel="stylesheet" type="text/css" href="{% static 'main2.css' %}" />
 {%endblock head%}
 {%block content%}
 <style type="text/css">
-.content{
-  color:white;
-}
 body {
 background-color: #F8F8F8;
 }
@@ -27,22 +24,30 @@ max-width: 1000px;
             $('.ui.form')
                 .form({
                     fields: {
-                        search: {
-                            identifier: 'search',
+                        course_name: {
+                            identifier: 'course_name',
                             rules: [{
                                 type: 'empty',
-                                prompt: 'Please enter your a course name'
+                                prompt: 'Please enter the course name'
                             }]
                         },
+
+                        feedback: {
+                            identifier: 'feedback',
+                            rules: [{
+                                type: 'empty',
+                                prompt: 'Please enter the feedback'
+                            }]
+                        }, 
                     }
                 });
         });
 </script>
   <div class="ui middle aligned center aligned grid">
     <div class="column">
-      <h2 class="ui orange image header">
+      <h2 class="ui image header">
       <div class="content">
-        Search
+      Post your review:
       </div>
       </h2>
       <form class="ui large form" method="post" action = "">
@@ -50,13 +55,19 @@ max-width: 1000px;
         <div class="ui stacked segment">
           <div class="field">
             <div class="ui left labeled input">
-              <div class = "ui label">Search</div>
-              <input type="text" name="search" placeholder="Search for course">
+              <div class = "ui label">Course Name</div>
+              <input type="text" name="course_name" placeholder="Course Name">
+            </div>
+          </div>
+          <div class="field">
+            <div class="ui left labeled input">
+              <div class = "ui label">Feedback</div>
+              <input type="text" name="feedback" placeholder="Feedback">
             </div>
           </div>
 
 
-          <div class="ui fluid large orange submit button">Search!</div>
+          <div class="ui fluid large orange submit button">Submit!</div>
         </div>
         <div class="ui error message"></div>
       </form>

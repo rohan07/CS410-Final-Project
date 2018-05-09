@@ -6,27 +6,45 @@
 
         <script src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
         <script src = "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+    
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {%block head%}
 
         {%endblock%}
-
+<style type="text/css">
+.menu{
+    color: transparent;
+}
+</style>
     </head>
     <body>
-            <div class="ui inverted large orange menu">
-                    <a class="active item">
+            {% if user.is_authenticated %}
+            <div class="ui large transparent menu">
+                    <a href = "/ce/search/"class="active item">
                         Course Explorer
                     </a>
-                    <div class="right menu">
-                      <div class="item">
-                          <div class="ui inverted white button">Sign Up</div>
-
-                      </div>
-                      <div class="item">
-                      <div class="ui inverted white button">Log In</div>
-                    </div>
-                    </div>
+                   
                   </div>
+                  {% else %}   
+                  <div class="ui large transparent menu">
+                        <a class="active item">
+                            Course Explorer
+                        </a>
+                        <div class="right menu">
+                          <div class="item"><a href = "/ce/signup/">
+                              <div class="ui orange button">Sign Up</div>
+                            </a>
+                          </div>
+                   
+                          <div class="item"><a href = "/ce/login/">
+                          <div class="ui  orange button">Log In</div>
+                        </a>
+                        </div>
+                       
+                        </div>
+                      </div>
+
+        {% endif %}
     {%block content%}
     {%endblock%}
    </body>

@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(253deg, #0cc898, #1797d2, #864fe1);
+    background: linear-gradient(253deg,#af90e1, #0cc898, #7ac5e8 );
     background-size: 300% 300%;
     -webkit-animation: Background 25s ease infinite;
     -moz-animation: Background 25s ease infinite;
@@ -8,7 +8,7 @@ body {
   
   @-webkit-keyframes Background {
     0% {
-      background-position: 0% 50%
+      background-position: 0% 50%s
     }
     50% {
       background-position: 100% 50%
@@ -78,11 +78,13 @@ body {
     display: block;
     color: white;
 
-    content: 'Subtitle goes here';
+    content: '-';
     font-size: .4em;
     text-align: center;
   }
-  
+  .te{
+    font-size: 100px;
+  }
   .button-line {
     text-transform: uppercase;
     letter-spacing: 2px;

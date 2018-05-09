@@ -2,6 +2,8 @@
 {% load staticfiles %}
 {%block head%}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
 <script src = "https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
@@ -12,14 +14,14 @@
 {%block content%}
 <div class="full-screen">
     <div>
-            <h1 class = "ui header" id = "heade">Welcome to Course Collab</h1>
+            <h1 class = " animated  bounceIn ui header te" id = "heade">Welcome to Course Collab</h1>
             <div class="item">
                           <a href = "/ce/signup"><div class="ui inverted white button">Sign Up</div></a>
 
                       </div>
                       <br><br>
-                      <div class="item">
-                      <div class="ui inverted white button">Log In</div>
+                    <div class="item">
+                      <a href = "/ce/login"><div class="ui inverted white button">Log In</div></a>
                     </div>
       <br>
     </div>

@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% load staticfiles %}
 {%block head%}
+<link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
 <link rel="stylesheet" type="text/css" href="{% static 'main2.css' %}" />
 {%endblock head%}
 {%block content%}
@@ -10,6 +11,12 @@ background-color: #F8F8F8;
 }
 body > .grid {
 height: 100%;
+}
+.menu{
+    color: transparent;
+}
+.content{
+    color:white;
 }
 .image {
 margin-top: -100px;
