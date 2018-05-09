@@ -38,7 +38,7 @@ def user_signup(request):
             user = user_form.save()
             user.set_password(user.password)
             user.save()
-            return HttpResponseRedirect('/ce/index/')
+            return HttpResponseRedirect('/ce/search/')
         else:
             error = "Please fill out all the fields"
             return render(request, 'error.html')
