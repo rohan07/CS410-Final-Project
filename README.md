@@ -4,7 +4,7 @@ Steps to install the application:
 - Set up a virtual enviroment or you can use the one we have provided. 
 - Install dependencies using 
   ```
-    pip install -r requirements.txt
+   pip install -r requirements.txt
   ```
  
  - Inside the FinalProject directory, run:
