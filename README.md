@@ -17,7 +17,7 @@ Steps to install the application:
   python manage.py runserver
  ```
  
- - While the server is running, in a different terminal tab, run:
+ -If you want to use your own database, run the following commands, while the server is running, in a different terminal tab, run:
  ```
   python CourseExlorerLoader.py
  ```
@@ -25,6 +25,10 @@ Steps to install the application:
   ```
   python load_koofer_professor.py
  ```
+ 
+ - You cam also just use the database we committed - db.sqlite3 if you run into any errors. 
+ 
+ 
    
   
   
