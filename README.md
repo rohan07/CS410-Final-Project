@@ -26,9 +26,27 @@ Steps to install the application:
   python load_koofer_professor.py
  ```
  
- - You cam also just use the database we committed - db.sqlite3 if you run into any errors. 
+ - You can also just use the database we committed - db.sqlite3 if you run into any errors. 
  
- 
-   
+
+ You can run the server - 
+ ```
+ python manage.py runsever
+ ```
   
+ The urls are defined in urls.py in the folder FinalProject/CourseExplorer 
+
+
+ # Implementation:
+ models.py - Definition of our data tables 
+ views.py - controller logic
+ urls.py - mapping from view to templates 
+ templates/ - Templates for the appllication
+ base.py - application settings.  
   
+
+# Contribution:
+
+  Rohan - Developed the application
+  Genevieve - Implemented the scrapers
+  Will - Finished the testing and helped in developing the application
