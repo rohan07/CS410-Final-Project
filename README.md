@@ -38,11 +38,11 @@ Steps to install the application:
 
 
  # Implementation:
- models.py - Definition of our data tables 
- views.py - controller logic
- urls.py - mapping from view to templates 
- templates/ - Templates for the appllication
- base.py - application settings.  
+ - models.py - Definition of our data tables 
+ - views.py - controller logic
+ - urls.py - mapping from view to templates 
+ - templates/ - Templates for the appllication
+ - base.py - application settings.  
   
 
 # Contribution:
